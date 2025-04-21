@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AndriiZhelieznii\\source\\repos\\TodoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6A70F7-07C5-4EB3-9CB1-8926055AAF89}|..\\Person_async_s\\PersonApi_async_SOAP.csproj|c:\\users\\andriizhelieznii\\source\\repos\\person_async_s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6A70F7-07C5-4EB3-9CB1-8926055AAF89}|..\\Person_async_s\\PersonApi_async_SOAP.csproj|c:\\users\\andriizhelieznii\\source\\repos\\person_async_s\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D6F583-A4B9-442D-BC7B-35D709091B0C}|..\\Person_async\\PersonApi_async_REST.csproj|c:\\users\\andriizhelieznii\\source\\repos\\person_async\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A2C4F7-B37D-4674-BC52-779A2D09D6D4}|..\\..\\..\\..\\..\\trembita\\CoreWCFDemoServerVER3\\CoreWCFDemoServer\\PersonApi_sync_SOAP.csproj|c:\\trembita\\corewcfdemoserverver3\\corewcfdemoserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D6F583-A4B9-442D-BC7B-35D709091B0C}|..\\Person_async\\PersonApi_async_REST.csproj|c:\\users\\andriizhelieznii\\source\\repos\\person_async\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\Users\\AndriiZhelieznii\\source\\repos\\Person_async_s\\PersonService.cs",
+              "RelativeDocumentMoniker": "..\\Person_async_s\\PersonService.cs",
+              "ToolTip": "C:\\Users\\AndriiZhelieznii\\source\\repos\\Person_async_s\\PersonService.cs",
+              "RelativeToolTip": "..\\Person_async_s\\PersonService.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAAAAEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:10:45.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AndriiZhelieznii\\source\\repos\\Person_async_s\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Person_async_s\\Program.cs",
+              "ToolTip": "C:\\Users\\AndriiZhelieznii\\source\\repos\\Person_async_s\\Program.cs",
+              "RelativeToolTip": "..\\Person_async_s\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:09:31.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AndriiZhelieznii\\source\\repos\\Person_async\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Person_async\\Program.cs",
+              "ToolTip": "C:\\Users\\AndriiZhelieznii\\source\\repos\\Person_async\\Program.cs",
+              "RelativeToolTip": "..\\Person_async\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:02:03.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\AndriiZhelieznii\\source\\repos\\Person_async\\DB.cs",
+              "RelativeDocumentMoniker": "..\\Person_async\\DB.cs",
+              "ToolTip": "C:\\Users\\AndriiZhelieznii\\source\\repos\\Person_async\\DB.cs",
+              "RelativeToolTip": "..\\Person_async\\DB.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:01:37.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\trembita\\CoreWCFDemoServerVER3\\CoreWCFDemoServer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\trembita\\CoreWCFDemoServerVER3\\CoreWCFDemoServer\\Program.cs",
+              "ToolTip": "C:\\trembita\\CoreWCFDemoServerVER3\\CoreWCFDemoServer\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\trembita\\CoreWCFDemoServerVER3\\CoreWCFDemoServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T10:56:32.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

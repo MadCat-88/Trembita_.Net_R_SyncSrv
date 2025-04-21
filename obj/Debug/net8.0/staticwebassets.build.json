@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "r2Rd/YEFUrB4TIgIAmA2iApFSidH7owYhafTEZ464Js=",
+  "Source": "PersonApi_sync_REST",
+  "BasePath": "_content/PersonApi_sync_REST",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
