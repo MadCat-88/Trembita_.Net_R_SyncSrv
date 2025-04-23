@@ -473,7 +473,7 @@ curl -X 'GET' \
 
 **Приклад запиту** за допомогою утиліти **curl** виглядає наступним чином:
 ```
-curl -X 'DELETE' 'http://your-server-ip:5118/api/unzr/20241011-12345'
+curl -X 'DELETE' 'http://your-server-ip:5118/api/20241011-12345'
 ```
 
 ```
